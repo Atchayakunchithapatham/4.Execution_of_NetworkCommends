@@ -67,10 +67,25 @@ print(result,unans)
 ## Output
 ##PING COMMAND
 CLIENT:
+
+
 ![image](https://github.com/Atchayakunchithapatham/4.Execution_of_NetworkCommends/assets/144870744/9a9b782f-6fbe-47a8-8991-4d1faa347360)
+
+
+
+
 SERVER:
+
+
+
 ![image](https://github.com/Atchayakunchithapatham/4.Execution_of_NetworkCommends/assets/144870744/5f180fa6-5783-46ed-91fc-633d625dd397)
+
+
+
 TRANSCEROUTE COMMAND:
+
+
+
 ![image](https://github.com/Atchayakunchithapatham/4.Execution_of_NetworkCommends/assets/144870744/9db3f008-8074-4f7f-88c3-9fb99b442390)
 
 
